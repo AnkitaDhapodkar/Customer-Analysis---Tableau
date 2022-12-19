@@ -1,5 +1,7 @@
 # Customer-Analysis---Tableau
 
+https://public.tableau.com/app/profile/ankita.dhapodkar/viz/CustomerAnalysis_16714684684290/CustomerStatistics?publish=yes
+
 Business Scenario: 
 You are the head of sales for a retail products company. The company wants to increase its business across regions. Your task is to examine Customer Statistics, which comprise the number of customers, product sales, product quantity, sales per customer, profit, and profit per customer. He should be able to see customer sales rank, as well as sales and profit by customer, rapidly. The purpose is to compare statistics across different regions. He will organize his sales approach across regions based on these figures.
 Objective: 
